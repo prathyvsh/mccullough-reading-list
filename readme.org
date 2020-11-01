@@ -1,0 +1,32 @@
+* McCullough Reading List
+
+* A Logical Calculus Immanent in Nervous Activity
+
+Seminal paper that fruitioned the field of neural nets. The paper was inspiration for the EDVAC report put up by Von Neumann that was a key event in the early advancements towards building a digital computer.
+
+* A Heterarchy of Values Determined by the Topology of Nervous Net
+
+McCullough talks about ideas like a diallel and shows how an anti-transitive activity is happening in the nervous net. It uses a toroid to model these activities.
+
+* Logic and Closed Loops for a Computer Junket to Mars
+https://link.springer.com/chapter/10.1007%2F978-3-642-87596-0_7
+
+* On A Calculus for Triadas 
+Quarterly Progress Report N. 84, Research Labs of Electronics, M.I.T
+
+https://dspace.mit.edu/bitstream/handle/1721.1/55528/RLE_QPR_084_XI.pdf
+
+* Related works
+
+** Coginition and Volition; A Contribution to a Theory of Subjectivity
+Gotthard Günther
+
+** Numbers and Logos: Unforgettable Hours with Warren St. McCullouch
+
+** Further Towards a Triadic Calculus (1972)
+http://www.vordenker.de/ggphilosophy/longyear-part_1.pdf
+http://www.vordenker.de/ggphilosophy/longyear-part_2.pdf
+http://www.vordenker.de/ggphilosophy/longyear-part_3.pdf
+
+** On the legacy of Warren McCullough
+https://pubmed.ncbi.nlm.nih.gov/17184902/
